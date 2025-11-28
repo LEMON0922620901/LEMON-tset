@@ -1,0 +1,7 @@
+{
+  "name": "SoundWave (聲波音控)",
+  "description": "A next-generation MacOS-style audio routing dashboard with Liquid Glass aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
